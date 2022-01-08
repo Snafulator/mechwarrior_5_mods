@@ -1,0 +1,14 @@
+{
+	"displayName": "Community Arc Loader",
+	"version": "1.0",
+	"description": "A single campaign arc override to load all community made quests/campaigns.\r\n\r\nCurrently supported mods:\r\n* Call of Garrison Duty\r\n* Misfit Pilot Quests\r\n\r\nSend me a reference string for your campaign arc file and i will load it in via dummy files.\r\n\r\n\r\n",
+	"author": "Snafulator",
+	"authorURL": "",
+	"defaultLoadOrder": 0,
+	"gameVersion": "1.1.0",
+	"manifest": [
+		"/Game/Campaign/CampaignArcs/MW5CoreCampaign.uasset",
+		"/Game/DLC1/CareerMode/CareerModeCoreCampaign.uasset"
+	],
+	"steamModVisibility": "Private"
+}
