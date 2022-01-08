@@ -1,0 +1,101 @@
+{
+	"OC_OMNIMECH":{
+		"name": "OmniMech",
+		"description": "An Omnimech, able to switch components around in no time at all.",
+		"color": "(R=0.47,G=0.71,B=1.0,A=1)",
+		"properties": {
+			"upkeepCostMulti": 0.8
+		}
+	},
+	"OC_EASYTOMAINTAIN": {
+		"name": "Easy To Maintain",
+		"description": "This 'Mech is designed for easy maintenance",
+		"color": "(R=1.0,G=1.0,B=1.0,A=1)",
+		"properties": {
+			"structureRepairCostMulti": 0.9,
+			"structureRepairDaysMulti": 0.9,
+			"armorRepairCostMulti": 0.8,
+			"armorRepairDaysMulti": 0.8			
+		}
+	},
+	"OC_TWISTEXTENDED":{
+		"name": "Extended Torso Twist",
+		"description": "This BattleMech has a wide range of motion at the torso joint, allowing it a larger field of fire.",
+		"color": "(R=0.5,G=1.0,B=0.0,A=1)"
+	},
+	"OC_SENSORSIMPROVED":{
+		"name": "Improved Sensors",
+		"description": "This 'Mech comes equipped with an advanced sensor suite.",
+		"color": "(R=0.5,G=1.0,B=0.0,A=1)",
+		"properties": {
+			"sensorRangeMulti": 1.1
+		}
+	},
+	"OC_PILOTEASY":{
+		"name": "Easy to Pilot",
+		"description": "This BattleMech is exceptionally easy to control and manuever.",
+		"color": "(R=0.5,G=1.0,B=0.0,A=1)",
+		"properties": {
+			"turnSpeedMulti": 1.1,
+			"decelerationMulti": 1.1			
+		}
+	},
+	"OC_TARGETINGIMPROVED":{
+		"name": "Improved Targeting",
+		"description": "This 'Mech has a robust targeting system that makes it easier to hit enemy targets.",
+		"color": "(R=0.5,G=1.0,B=0.0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Laser",
+						"tags": [
+							"Weapon.Energy.Laser"
+						],
+						"durationMulti": 0.95
+					},
+					{
+						"weaponGroupName": "Projectile",
+						"tags": [
+							"Weapon.Ballistic",
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile",
+							"Weapon.Energy.ParticleCannon"
+						],
+						"speedMulti": 1.1
+					}
+				]
+			}
+		}
+	},
+	"OC_TARGETINGAA":{
+		"name": "Anti-Air Targeting",
+		"description": "This 'Mech has a targeting system designed to help fight against aerial units at long range.",
+		"color": "(R=0.5,G=1.0,B=0.0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"maxRangeMulti": 1.1
+					}
+				]
+			}
+		}
+	},
+	"OC_SHOULDER_PAULDRONS":{
+		"name": "Shielded Pauldrons",
+		"description": "This 'Mech has thick armored Pauldrons, providing extra protection from attacks to the side.",
+		"color": "(R=0.5,G=1.0,B=0.0,A=1)",
+		"properties" :{
+			"armorBonus":{
+				"LeftArm": 6,
+				"RightArm": 6,
+				"Head": 6
+			}
+		}
+	}
+}

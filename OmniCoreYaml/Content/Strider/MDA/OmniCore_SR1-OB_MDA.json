@@ -1,0 +1,467 @@
+{
+	"mechModel": "MWMechModelDataAsset'/OmniCoreYaml/Strider/Model/OC_YAML_Strider_MDL.OC_YAML_Strider_MDL'",
+	"bReadFromFileOnSave": false,
+	"mechStats":
+	{
+		"keyName": "OmniCore_SR1-O",
+		"table": "DataTable'/OmniCoreYaml/OC_YAML_MechStats.OC_YAML_MechStats'"
+	},
+	"healthStats":
+	{
+		"keyName": "OmniCore_SR1-O",
+		"table": "DataTable'/OmniCoreYaml/OC_YAML_MechHealthStats.OC_YAML_MechHealthStats'"
+	},
+	"mechDataStats":
+	{
+		"baseStats":
+		{
+			"tons": 40,
+			"baseTons": -10,
+			"cBillBaseValue": 10000,
+			"cBillUpkeepCost": 32000,
+			"repairData":
+			{
+				"costPerArmorPoint": 200,
+				"costPerStructurePoint": 600,
+				"partReplacementCost":
+				{
+					"head": 330000,
+					"centerTorso": 1024000,
+					"sideTorso": 80000,
+					"arm": 10000,
+					"leg": 14000
+				}
+			},
+			"refitCosts":
+			{
+				"id": "MWMechRefitCostsDataAsset'/OmniCoreYaml/RefitCosts/OmniCore_SR1-O_RefitCosts.OmniCore_SR1-O_RefitCosts'"
+			},
+			"baseHeatCapacity": 40,
+			"baseCoolingRate": 1
+		},
+		"moveStats":
+		{
+			"topSpeed": 3600,
+			"minSpeed": 400,
+			"reverseTopSpeed": 2397.60009765625,
+			"accelerationCurve": "CurveFloat'/Game/Objects/Mechs/_common/Config/MechDefaultAcceleration.MechDefaultAcceleration'",
+			"decelerationCurve": "CurveFloat'/Game/Objects/Mechs/_common/Config/MechDefaultDeceleration.MechDefaultDeceleration'",
+			"slowFieldDecelerationCurve": "CurveFloat'/Game/Objects/Mechs/_common/Config/MechSlowFieldDeceleration.MechSlowFieldDeceleration'",
+			"turnSpeedCurve": "CurveFloat'/Game/Objects/Mechs/_common/Config/MechDefaultTurnSpeed.MechDefaultTurnSpeed'",
+			"turnSpeed": 132.35330200195312,
+			"jumpJetCrouchCurve": "CurveFloat'/Game/Objects/Mechs/_common/Config/MechJumpJetLeap.MechJumpJetLeap'",
+			"jumpJetLandingRecoveryCurve": "None",
+			"fallDamageCurve": "CurveFloat'/Game/Objects/Mechs/_common/Config/MechFallDamageCurve.MechFallDamageCurve'"
+		},
+		"torsoStats":
+		{
+			"torsoTwistRate":
+			{
+				"yaw": 166.5,
+				"pitch": 104.05999755859375
+			},
+			"torsoTwistBounds":
+			{
+				"bIsYawUnbound": false,
+				"bIsPitchUnbound": false,
+				"low":
+				{
+					"yaw": -125,
+					"pitch": -40
+				},
+				"high":
+				{
+					"yaw": 125,
+					"pitch": 40
+				}
+			},
+			"armTwistRate":
+			{
+				"yaw": 416.25,
+				"pitch": 416.25
+			},
+			"armTwistBounds":
+			{
+				"bIsYawUnbound": false,
+				"bIsPitchUnbound": false,
+				"low":
+				{
+					"yaw": 0,
+					"pitch": -30
+				},
+				"high":
+				{
+					"yaw": 0,
+					"pitch": 30
+				}
+			}
+		},
+		"powerStats":
+		{
+			"powerInitializationTime": 8,
+			"powerUpTime": 3,
+			"powerDownTime": 3,
+			"torsoPowerUpCurve": "CurveFloat'/Game/Objects/Mechs/_common/Config/MechDefaultPowerAnimatonCurves/MechDefaultTorsoPowerUp.MechDefaultTorsoPowerUp'",
+			"torsoPowerDownCurve": "CurveFloat'/Game/Objects/Mechs/_common/Config/MechDefaultPowerAnimatonCurves/MechDefaultTorsoPowerDown.MechDefaultTorsoPowerDown'",
+			"armPowerUpCurve": "CurveFloat'/Game/Objects/Mechs/_common/Config/MechDefaultPowerAnimatonCurves/MechDefaultArmPowerUp.MechDefaultArmPowerUp'",
+			"armPowerDownCurve": "CurveFloat'/Game/Objects/Mechs/_common/Config/MechDefaultPowerAnimatonCurves/MechDefaultArmPowerDown.MechDefaultArmPowerDown'",
+			"legPowerUpCurve": "CurveFloat'/Game/Objects/Mechs/_common/Config/MechDefaultPowerAnimatonCurves/MechDefaultLegPowerUp.MechDefaultLegPowerUp'",
+			"legPowerDownCurve": "CurveFloat'/Game/Objects/Mechs/_common/Config/MechDefaultPowerAnimatonCurves/MechDefaultLegPowerDown.MechDefaultLegPowerDown'"
+		},
+		"mechImportData":
+		{
+			"baseMechInformation":
+			{
+				"armorType": "standardarmortype",
+				"structureType": "standardstructuretype",
+				"heatSinkType": "standardheatsinktype",
+				"bArtemis": false,
+				"engineRating": 320,
+				"bXLEngine": false
+			},
+			"componentInformation":
+			{
+				"head":
+				{
+					"bCASE": false,
+					"targetingComputer": 0,
+					"bECM": false,
+					"bBeagleActiveProbe": false,
+					"heatSinks": 0,
+					"componentAmmo": [
+						"None"
+					],
+					"jumpJets": 0
+				},
+				"centerTorso":
+				{
+					"bCASE": false,
+					"targetingComputer": 0,
+					"bECM": false,
+					"bBeagleActiveProbe": false,
+					"heatSinks": 0,
+					"componentAmmo": [
+						"None",
+						"None"
+					],
+					"jumpJets": 0
+				},
+				"leftTorso":
+				{
+					"bCASE": false,
+					"targetingComputer": 0,
+					"bECM": false,
+					"bBeagleActiveProbe": false,
+					"heatSinks": 0,
+					"componentAmmo": [
+						"None",
+						"None",
+						"None",
+						"None",
+						"None",
+						"None"
+					],
+					"jumpJets": 0
+				},
+				"rightTorso":
+				{
+					"bCASE": false,
+					"targetingComputer": 0,
+					"bECM": false,
+					"bBeagleActiveProbe": false,
+					"heatSinks": 0,
+					"componentAmmo": [
+						"None",
+						"None",
+						"None",
+						"None"
+					],
+					"jumpJets": 0
+				},
+				"leftArm":
+				{
+					"bCASE": false,
+					"targetingComputer": 0,
+					"bECM": false,
+					"bBeagleActiveProbe": false,
+					"heatSinks": 0,
+					"componentAmmo": [
+						"None",
+						"None"
+					],
+					"jumpJets": 0
+				},
+				"rightArm":
+				{
+					"bCASE": false,
+					"targetingComputer": 0,
+					"bECM": false,
+					"bBeagleActiveProbe": false,
+					"heatSinks": 0,
+					"componentAmmo": [
+						"None",
+						"None"
+					],
+					"jumpJets": 0
+				},
+				"leftLeg":
+				{
+					"bCASE": false,
+					"targetingComputer": 0,
+					"bECM": false,
+					"bBeagleActiveProbe": false,
+					"heatSinks": 0,
+					"componentAmmo": [
+						"None",
+						"None"
+					],
+					"jumpJets": 0
+				},
+				"rightLeg":
+				{
+					"bCASE": false,
+					"targetingComputer": 0,
+					"bECM": false,
+					"bBeagleActiveProbe": false,
+					"heatSinks": 0,
+					"componentAmmo": [
+						"None",
+						"None"
+					],
+					"jumpJets": 0
+				}
+			}
+		}
+	},
+	"healthDataStats":
+	{
+		"maxStructure":
+		{
+			"head": 15,
+			"centerTorso": 27,
+			"leftTorso": 24,
+			"rightTorso": 24,
+			"leftArm": 12,
+			"rightArm": 12,
+			"leftLeg": 20,
+			"rightLeg": 20
+		},
+		"maxArmor":
+		{
+			"head": 30,
+			"centerTorso": 54,
+			"leftTorso": 48,
+			"rightTorso": 48,
+			"leftArm": 24,
+			"rightArm": 24,
+			"leftLeg": 40,
+			"rightLeg": 40
+		}
+	},
+	"mechType":
+	{
+		"tagName": "Mech.Medium.Strider.SR1-O"
+	},
+	"chassisFullName": "Strider",
+	"variantName": "SR1-OB",
+	"defaultMech":
+	{
+		"id": "MWMechLoadoutAsset:OmniCore_SR1-OB_Loadout"
+	},
+	"mechTexture": "/Game/UI/Textures/Battlemechs/Cicada_Icon_UIX.Cicada_Icon_UIX",
+	"targetComponent": "/Game/Objects/Mechs/Cicada/Target/Cicada_Target.Cicada_Target_C",
+	"description": "The Strider OmniMech is based on the older Cicada BattleMech. The Strider is built on an Alshain Type KR240 Endo Steel chassis to help save on weight. Built with the rugged GM 240 fusion engine, the Strider has a top speed of 97.2 km/h. Outfitted with CASE, built around the durable GM 240, and protected with seven and a half tons of armor, the Strider is a durable 'Mech for its weight class; capable of suffering considerable damage before being disabled or destroyed.",
+	"selectedWeaponHardPoints": [
+		"Torso_Center_EH1_medium",
+		"Torso_Center_EH2_medium",
+		"Torso_Left_OH1_medium",
+		"Torso_Left_OH2_medium",
+		"Torso_Right_OH1_medium",
+		"Torso_Right_OH2_medium",
+		"Forearm_Left_OH1_medium",
+		"Forearm_Left_OH2_medium",
+		"Forearm_Right_OH1_medium",
+		"Forearm_Right_OH2_medium"
+	],
+	"blankWeaponHardPoints": [],
+	"bRecalculateFreeSlotsOnSave": false,
+	"equipmentAllocation":
+	{
+		"armorDataAssetId":
+		{
+			"id": "MWArmorDataAsset:StandardArmor"
+		},
+		"structureDataAssetId":
+		{
+			"id": "MWStructureDataAsset:EndoSteelStructure"
+		},
+		"allowedHeatSinkType":
+		{
+			"tagName": "Equipment.HeatSinks.Single"
+		},
+		"allowedJumpJetType":
+		{
+			"tagName": "None"
+		},
+		"slotData": [
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:General_SlotType"
+				},
+				"slotCounts":
+				{
+					"Head": 1,
+					"CenterTorso": 4,
+					"LeftTorso": 12,
+					"LeftArm": 8,
+					"LeftLeg": 2,
+					"RightTorso": 12,
+					"RightArm": 8,
+					"RightLeg": 2
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:EngineHeatsink_SlotType"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 1
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:Armorslot"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 1
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:Structureslot"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 1
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:Gyro"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 1
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:enginecooling"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 1
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:Engine"
+				},
+				"slotCounts":
+				{
+					"CenterTorso": 1
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:Sensors"
+				},
+				"slotCounts":
+				{
+					"Head": 1
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:Targeting"
+				},
+				"slotCounts":
+				{
+					"Head": 1
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:cockpit"
+				},
+				"slotCounts":
+				{
+					"Head": 1
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:armslot"
+				},
+				"slotCounts":
+				{
+					"LeftArm": 2,
+					"RightArm": 2
+				}
+			},
+			{
+				"slotTypeDataAssetId":
+				{
+					"id": "MWSlotTypeDataAsset:legslot"
+				},
+				"slotCounts":
+				{
+					"LeftLeg": 2,
+					"RightLeg": 2
+				}
+			}
+		],
+		"internalEquipment": [
+			"LifeSupport",
+			"Sensors",
+			"Cockpit",
+			"Gyro",
+			"LeftArm_Shoulder",
+			"LeftArm_UpperActuator",
+			"RightArm_Shoulder",
+			"RightArm_UpperActuator",
+			"LeftLeg_Hip",
+			"LeftLeg_UpperActuator",
+			"LeftLeg_LowerActuator",
+			"LeftLeg_FootActuator",
+			"RightLeg_Hip",
+			"RightLeg_UpperActuator",
+			"RightLeg_LowerActuator",
+			"RightLeg_FootActuator"
+		],
+		"totalTraitSlots": 10
+	},
+	"refitCosts":
+	{
+		"id": "MWMechRefitCostsDataAsset:CDA_320_Std_RefitCosts"
+	},
+	"engineRating": 240,
+	"bXLEngine": true,
+	"baseChassisCost": 5558000,
+	"salvageShareCost": 21,
+	"bIsHeroMech": false,
+	"bIsDefaultVariant": true
+}

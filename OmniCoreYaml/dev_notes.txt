@@ -1,0 +1,22 @@
+Templar left arm ballistic hardpoint:
+
+Y is up+ down-
+X is fwd+ back-
+Z is right+ left-
+
+
+Templar right arm ballistic hardpoint:
+
+Y is up+ down-
+X is fwd+ back-
+Z is right+ left-
+
+
+
+Introduction dates:
+
+Templar - 3062
+Strider - 3057
+Owens - 3056
+Firestarter - 3056
+Blackjack - 3057

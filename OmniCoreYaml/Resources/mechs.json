@@ -1,0 +1,194 @@
+{
+	"FS9-O": {
+		"scale": "X=1.11 Y=1.11 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"COWL",
+			"FIRESTARTER"
+		]
+	},
+	"FS9-OA": {
+		"scale": "X=1.11 Y=1.11 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"COWL",
+			"FIRESTARTER"
+		]
+	},
+	"FS9-OB": {
+		"scale": "X=1.11 Y=1.11 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"COWL",
+			"FIRESTARTER"
+		]
+	},
+	"FS9-OC": {
+		"scale": "X=1.11 Y=1.11 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"COWL",
+			"FIRESTARTER"
+		]
+	},
+	"FS9-OD": {
+		"scale": "X=1.11 Y=1.11 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"COWL",
+			"FIRESTARTER"
+		]
+	},
+	"FS9-OE": {
+		"scale": "X=1.11 Y=1.11 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"COWL",
+			"FIRESTARTER"
+		]
+	},
+	"FS9-OF": {
+		"scale": "X=1.11 Y=1.11 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"COWL",
+			"FIRESTARTER"
+		]
+	},
+	"BJ2-O": {
+		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_TWISTEXTENDED",
+			"OC_TARGETINGIMPROVED"
+		]
+	},
+	"BJ2-OA": {
+		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_TWISTEXTENDED",
+			"OC_TARGETINGIMPROVED"
+		]
+	},
+	"BJ2-OB": {
+		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_TWISTEXTENDED",
+			"OC_TARGETINGIMPROVED"
+		]
+	},
+	"BJ2-OC": {
+		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_TWISTEXTENDED",
+			"OC_TARGETINGIMPROVED"
+		]
+	},
+	"BJ2-OD": {
+		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_TWISTEXTENDED",
+			"OC_TARGETINGIMPROVED"
+		]
+	},
+	"BJ2-OE": {
+		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_TWISTEXTENDED",
+			"OC_TARGETINGIMPROVED"
+		]
+	},
+	"BJ2-OF": {
+		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_TWISTEXTENDED",
+			"OC_TARGETINGIMPROVED"
+		]
+	},
+	"OW-1": {
+		"scale": "X=1.16 Y=1.18 Z=1.14",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_SENSORSIMPROVED"
+		]
+	},
+	"OW-1A": {
+		"scale": "X=1.16 Y=1.18 Z=1.14",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_SENSORSIMPROVED"
+		]
+	},
+	"OW-1B": {
+		"scale": "X=1.16 Y=1.18 Z=1.14",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_SENSORSIMPROVED"
+		]
+	},
+	"SR1-O": {
+		"scale": "X=0.95 Y=0.95 Z=0.95",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_PILOTEASY"
+		]
+	},
+	"SR1-OB": {
+		"scale": "X=0.95 Y=0.95 Z=0.95",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_PILOTEASY"
+		]
+	},
+	"SR1-OC": {
+		"scale": "X=0.95 Y=0.95 Z=0.95",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_PILOTEASY"
+		]
+	},
+	"SR1-OD": {
+		"scale": "X=0.95 Y=0.95 Z=0.95",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_PILOTEASY"
+		]
+	},
+	"SR1-OE": {
+		"scale": "X=0.95 Y=0.95 Z=0.95",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_PILOTEASY"
+		]
+	},
+	"TLR1-O": {
+		"scale": "X=1.03 Y=1.03 Z=1.05",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_EASYTOMAINTAIN",
+			"OC_SHOULDER_PAULDRONS"
+		]
+	},
+	"TLR1-OA": {
+		"scale": "X=1.03 Y=1.03 Z=1.05",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_EASYTOMAINTAIN",
+			"OC_SHOULDER_PAULDRONS"
+		]
+	},
+	"TLR1-OB": {
+		"scale": "X=1.03 Y=1.03 Z=1.05",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_EASYTOMAINTAIN",
+			"OC_SHOULDER_PAULDRONS"
+		]
+	}
+}
