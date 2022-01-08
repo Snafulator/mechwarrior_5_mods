@@ -1,0 +1,86 @@
+{
+	"weaponSlots": [
+		{
+			"hardpointSlotId": "Torso_Left_MH1_small",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "LeftTorso",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:BA_Missile_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.BA.Missile.SRM\")": "/BattleArmorYaml/Elemental/Model/Weapons/Weapon_Mech_TOAD_Torso_Left_MH1_SRM.Weapon_Mech_TOAD_Torso_Left_MH1_SRM_C",
+				"(TagName=\"Weapon\")": "/BattleArmorYaml/Elemental/Model/Weapons/Weapon_Mech_TOAD_Torso_Left_MH1_SRM.Weapon_Mech_TOAD_Torso_Left_MH1_SRM_C",
+				"()": "None"
+			}
+		},
+		{
+			"hardpointSlotId": "Torso_Right_MH1_small",
+			"mechSkeletonSocketId": "Torso_Weapon",
+			"mechPart": "RightTorso",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:BA_Missile_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.BA.Missile.SRM\")": "/BattleArmorYaml/Elemental/Model/Weapons/Weapon_Mech_TOAD_Torso_Right_MH1_SRM.Weapon_Mech_TOAD_Torso_Right_MH1_SRM_C",
+				"(TagName=\"Weapon\")": "/BattleArmorYaml/Elemental/Model/Weapons/Weapon_Mech_TOAD_Torso_Right_MH1_SRM.Weapon_Mech_TOAD_Torso_Right_MH1_SRM_C",
+				"()": "None"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Right_EH1_small",
+			"mechSkeletonSocketId": "Forearm_Right_Weapon",
+			"mechPart": "RightArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:BA_Energy_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.BA.Energy.Laser\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Right_EH1_Laser.Weapon_Mech_VND_Forearm_Right_EH1_Laser_C",
+				"(TagName=\"Weapon.BA.Energy.Flamer\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Right_EH1_Flamer.Weapon_Mech_VND_Forearm_Right_EH1_Flamer_C",
+				"(TagName=\"Weapon.BA.Energy.PPC\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Right_EH1_SNPPC.Weapon_Mech_VND_Forearm_Right_EH1_SNPPC_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Right_EH1_Laser.Weapon_Mech_VND_Forearm_Right_EH1_Laser_C",
+				"()": "None"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Left_BH1_small",
+			"mechSkeletonSocketId": "Forearm_Left_Weapon",
+			"mechPart": "LeftArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:BA_Ballistic_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.BA.Ballistic.Gauss\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Left_BH1_MG.Weapon_Mech_VND_Forearm_Left_BH1_MG_C",
+				"(TagName=\"Weapon.BA.Ballistic.MG\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Left_BH1_MG.Weapon_Mech_VND_Forearm_Left_BH1_MG_C",
+				"(TagName=\"Weapon.BA.Ballistic.LMG\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Left_BH1_LMG.Weapon_Mech_VND_Forearm_Left_BH1_LMG_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Left_BH1_MG.Weapon_Mech_VND_Forearm_Left_BH1_MG_C",
+				"()": "None"
+			}
+		},
+		{
+			"hardpointSlotId": "Arm_Left_Hand_Actuator_Melee",
+			"mechSkeletonSocketId": "Forearm_Left_Weapon",
+			"mechPart": "LeftArm",
+			"bHideOnPartDestruction": false,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:MeleeHandActuatorLight_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"()": "/Game/Objects/Weapons/Melee/Weapon_Melee_MechPunchLeft_Light.Weapon_Melee_MechPunchLeft_Light_C"
+			}
+		}
+	]
+}

@@ -1,0 +1,104 @@
+{
+    "light_vehicle": [
+        "Harasser_LRM10_UnitCard",
+        "Harasser_ML_x2_UnitCard",
+        "Scorpion_UnitCard",
+        "Scorpion_ML_x2_MG_UnitCard",
+        "MissileCarrier_LRM20_UnitCard",
+        "MissileCarrier_SRM20_UnitCard",
+        "Tank_Jedgar_Flamer_UnitCard",
+        "Tank_Jedgar_MachineGun_UnitCard",
+        "Tank_Jedgar_UnitCard"
+    ],
+    "heavy_vehicle": [
+        "Partisan_UnitCard",
+        "Partisan_AC2_x5_MG_x2_UnitCard",
+        "Demolisher_UnitCard",
+        "Manticore_UnitCard",
+        "MissileCarrier_SRM60_UnitCard",
+        "Patton_UnitCard",
+        "MissileCarrier_LRM60_UnitCard"
+    ],
+    "aircraft": [
+        "Fancy_Warrior_UnitCard",
+        "VTOL_Igor_1x1_AC10_UnitCard",
+        "VTOL_Igor_2x2AC2_Recruit_UnitCard",
+        "VTOL_Warrior_UnitCard",
+        "VTOL_Igor_2x2AC2_UnitCard"
+    ],
+    "light_mech": [
+        "LCT-3V_UnitCard",
+        "FLE-15_UnitCard",
+        "COM-1B_UnitCard",
+        "JVN_10N_UnitCard",
+        "FS9-A_UnitCard",
+        "JR7-D_UnitCard",
+        "SDR-5K_UnitCard",
+        "WLF-1_UnitCard",
+        "RVN-1X_UnitCard",
+        "PNT-9R_UnitCard"
+    ],
+    "medium_mech": [
+        "ASN-101_UnitCard",
+        "CDA-2A_UnitCard",
+        "CRB-20_UnitCard",
+        "ENF-4P_UnitCard",
+        "GRF-1E_UnitCard",
+        "KTO-18_UnitCard",
+        "PXH-1_UnitCard",
+        "BJ-1_UnitCard",
+        "CN9-A_UnitCard",
+        "PNT-9R_UnitCard",
+        "WVR-6K_UnitCard",
+        "VND-1R_UnitCard",
+        "SHD-2D_UnitCard",
+        "HBK-4P_UnitCard"
+    ],
+    "heavy_mech": [
+        "ARC-2R_UnitCard",
+        "BL-6-KNT_UnitCard",
+        "CPLT-A1_UnitCard",
+        "DRG-1C_UnitCard",
+        "GHR-4P_UnitCard",
+        "TDR-5S-T_UnitCard",
+        "MAD-2R_UnitCard",
+        "CGR-1A1_UnitCard",
+        "JM6-A_UnitCard",
+        "WHM-6D_UnitCard",
+        "ON1-K_UnitCard",
+        "QKD-4G_UnitCard",
+        "RFL-3N_UnitCard",
+        "CTF-0X_UnitCard"
+    ],
+    "assault_mech": [
+        "AS7-D_UnitCard",
+        "AWS_8Q_UnitCard",
+        "BNC-3E_UnitCard",
+        "BLR-1D_UnitCard",
+        "CP-10-Z_UnitCard",
+        "HTM-26T_UnitCard",
+        "MAL-1P_UnitCard",
+        "HGN-732_UnitCard",
+        "STK-3F_UnitCard",
+        "VTR-9A1_UnitCard",
+        "ZEU-5S_UnitCard"
+    ],
+    "atlas_mech": [
+        "AS7-D_UnitCard",
+        "AS7-K_UnitCard",
+        "AS7-KR_UnitCard",
+        "AS7-RS_UnitCard"
+    ],
+    "urbie_mech": [
+        "UM-R60_UnitCard",
+        "UM-R60L_UnitCard",
+        "UM-SC_UnitCard"
+    ],
+    "archer_mech": [
+        "ARC-2R_UnitCard",
+        "ARC-2K_UnitCard"
+    ],
+    "scout_mech": [
+        "RVN-1X_UnitCard"
+    ]
+}

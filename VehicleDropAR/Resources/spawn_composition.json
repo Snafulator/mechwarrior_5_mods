@@ -1,0 +1,234 @@
+{
+    "light_vehicle_lance": [
+        "light_vehicle",
+        "light_vehicle",
+        "light_vehicle",
+        "light_vehicle"
+    ],
+    "heavy_vehicle_lance": [
+        "heavy_vehicle",
+        "heavy_vehicle",
+        "heavy_vehicle",
+        "heavy_vehicle"
+    ],
+    "armored_company": [
+        "light_vehicle",
+        "light_vehicle",
+        "light_vehicle",
+        "light_vehicle",
+        "heavy_vehicle",
+        "heavy_vehicle",
+        "heavy_vehicle",
+        "heavy_vehicle",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft"
+    ],
+    "air_squadron": [
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft"
+    ],
+    "air_wing": [
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft",
+        "aircraft"
+    ],
+    "std_mech_lance": [
+        "light_mech",
+        "medium_mech",
+        "heavy_mech",
+        "heavy_mech"
+    ],
+    "light_mech_lance": [
+        "light_mech",
+        "light_mech",
+        "light_mech",
+        "light_mech"
+    ],
+    "medium_mech_lance": [
+        "medium_mech",
+        "medium_mech",
+        "medium_mech",
+        "medium_mech"
+    ],
+    "heavy_mech_lance": [
+        "heavy_mech",
+        "heavy_mech",
+        "heavy_mech",
+        "heavy_mech"
+    ],
+    "assault_mech_lance": [
+        "assault_mech",
+        "assault_mech",
+        "assault_mech",
+        "assault_mech"
+    ],
+    "atlas_lance": [
+        "atlas_mech",
+        "atlas_mech",
+        "atlas_mech",
+        "atlas_mech"
+    ],
+    "urbie_lance": [
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech"
+    ],
+    "std_mech_lance_with_air": [
+        "light_mech",
+        "medium_mech",
+        "heavy_mech",
+        "heavy_mech",
+        "aircraft",
+        "aircraft"
+    ],
+    "std_mech_lance_with_ground": [
+        "light_mech",
+        "medium_mech",
+        "heavy_mech",
+        "heavy_mech",
+        "heavy_vehicle",
+        "heavy_vehicle"
+    ],
+    "combined_arms_company": [
+        "light_vehicle",
+        "light_vehicle",
+        "heavy_vehicle",
+        "heavy_vehicle",
+        "aircraft",
+        "aircraft",
+        "light_mech",
+        "medium_mech",
+        "medium_mech",
+        "heavy_mech",
+        "heavy_mech",
+        "assault_mech"
+    ],   
+    "std_mech_company": [
+        "light_mech",
+        "light_mech",
+        "light_mech",
+        "light_mech",
+        "medium_mech",
+        "medium_mech",
+        "medium_mech",
+        "medium_mech",
+        "heavy_mech",
+        "heavy_mech",
+        "assault_mech",
+        "assault_mech"
+    ],
+    "assault_mech_company": [
+        "assault_mech",
+        "assault_mech",
+        "assault_mech",
+        "assault_mech",
+        "assault_mech",
+        "assault_mech",
+        "assault_mech",
+        "assault_mech",
+        "assault_mech",
+        "assault_mech",
+        "assault_mech",
+        "assault_mech"
+    ],
+    "urbocalypse": [
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech",
+        "urbie_mech"
+    ],
+    "single_archer": [
+        "archer_mech"
+    ],
+    "single_scout": [
+        "scout_mech"
+    ],
+    "elemental_point": [
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental"
+    ],
+    "elemental_star": [
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental",
+        "ba_elemental"
+    ]
+}

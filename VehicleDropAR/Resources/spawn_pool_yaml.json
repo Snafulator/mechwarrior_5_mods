@@ -1,0 +1,54 @@
+{
+    "light_mech": [
+        "FLE-20_UnitCard_EARLY",
+        "FLE-FA_UnitCard_XLMG",
+        "JVN-11A_UnitCard_XL",
+        "JVN-11A_UnitCard_XL_SMPL",
+    ],
+    "medium_mech": [
+        "CDA-3C_UnitCard_UAC",
+        "CDA-3F_UnitCard_LL",
+    ],
+    "heavy_mech": [
+        "ARC-2R_UnitCard_MRMERML",
+        "ARC-5WX_UnitCard",
+        "BL-6-KNT_UnitCard_MPLL",
+        "BL-6-KNT_UnitCard_LPPC",
+        "CTF-4X_UnitCard_LAC5",
+        "MAD-5T_UnitCard",
+        "RFL-8D_UnitCard_YAW",
+        "RFL-8D_UnitCard_LGAUSS"
+    ],
+    "assault_mech": [
+        "AS7-S_UnitCard_LBXSRM",
+        "AS7-S_UnitCard_UACSRM",
+        "AWS-8R_UnitCard_SRMLL",
+        "AWS-8R_UnitCard_SRMHPPC",
+        "BNC-3E_UnitCard_SNIPER",
+        "BNC-3E_UnitCard_LACPPC",
+        "CP-11-P_UnitCard_ERPPCGAU",
+        "CP-11-P_UnitCard_UACMRM",
+        "KGC-000_UnitCard_LAC2",
+        "KGC-000_UnitCard_LMG",
+        "MAD-IIC-SC_UnitCard",
+        "MAD-IIC-A_UnitCard"
+    ],
+    "atlas_mech": [
+        "AS7-S_UnitCard_GAUSSMRM1",
+        "AS7-S_UnitCard_GAUSSMRM2",
+        "AS7-S_UnitCard_LBXSRM",
+        "AS7-S_UnitCard_UACSRM",
+        "AS7-D-Y_UnitCard_LAC"
+    ],
+    "urbie_mech": [
+        "UM-AIV_UnitCard",
+        "UM-R68M_UnitCard",
+        "UM-R68_UnitCard_XL",
+        "UM-R68_UnitCard",
+        "UM-R63X_UnitCard_LBX2"
+    ],
+    "ba_elemental": [
+        "TOAD-L_UnitCard",
+        "TOAD-PPC_UnitCard"
+    ]
+}

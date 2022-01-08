@@ -1,0 +1,79 @@
+{
+    "light_vehicle": [
+        "Savannah_Master_ML_UnitCard",
+        "Savannah_Master_SL_UnitCard",
+        "Ares_Standard_UnitCard",
+        "Asshur_Artillery_UnitCard",
+        "Asshur_Standard_UnitCard",
+        "Hetzer_SRM_UnitCard"
+    ],
+    "heavy_vehicle": [
+        "Athena_UnitCard",
+        "Bulldog_AC2_UnitCard",
+        "Bulldog_Cell_UnitCard",
+        "Bulldog_LRM_UnitCard",
+        "Bulldog_Standard_UnitCard",
+        "Demolisher_Clan_UnitCard"
+    ],
+    "aircraft": [
+        "VTOL_Anhur_UnitCard",
+        "VTOL_Igor-LL_UnitCard",
+        "VTOL_Igor-LL_UnitCard_MK2",
+        "VTOL_Igor-LRM20_ARTIV_UnitCard",
+        "VTOL_Igor-LRM20_UnitCard",
+        "VTOL_Igor-P_UnitCard",
+        "VTOL_Igor-PPC_UnitCard",
+        "H7A_Warrior_UnitCard",
+        "H7C_Warrior_UnitCard"
+    ],
+    "light_mech": [
+        "MEB-9_UnitCard",
+        "HMC-13_UnitCard",
+        "KT-P2_UnitCard",
+        "OTT-7Jb_UnitCard",
+        "WSP-1A_UnitCard",
+        "COM-2Dr_UnitCard",
+        "FS9-S3_UnitCard",
+        "FS9-M4_UnitCard",
+        "FLE-16_UnitCard",
+        "FLE-4_UnitCard"
+    ],
+    "medium_mech": [
+        "PT_BZK-F3_UnitCard",
+        "GRW_UnitCard",
+        "HCT-5D_UnitCard",
+        "KW-LH2_Unitcard",
+        "WTH-0_UnitCard",
+        "WVE-5N_UnitCard",
+        "BJ-5_UnitCard",
+        "CN9-Ar_UnitCard",
+        "CDA-3MA_UnitCard",
+        "DV-8D_UnitCard",
+        "ENF-5D_UnitCard"
+    ],
+    "heavy_mech": [
+        "HMH-3D_Kessem_UnitCard",
+        "CTF-3L_UnitCard",
+        "CPLT-K5_UnitCard",
+        "CHP-3N_UnitCard",
+        "GHR-8K_UnitCard"
+    ],
+    "assault_mech": [
+        "DVS-1D_UnitCard",
+        "AWS-10KM_UnitCard",
+        "BNC-6S_UnitCard",
+        "BLR-2C_UnitCard",
+        "CPLT-C5A_UnitCard",
+        "CGR-SB_UnitCard",
+        "CP-12-K_UnitCard",
+        "DVS-3_UnitCard",
+        "DVS-2_UnitCard"
+    ],
+    "atlas_mech": [
+        "AS7-S2_UnitCard",
+        "AS7-CM_UnitCard"
+    ],
+    "scout_mech": [
+       "OTT-7Jb_UnitCard",
+    ]
+}

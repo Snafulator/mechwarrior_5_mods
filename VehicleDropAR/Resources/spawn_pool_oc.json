@@ -1,0 +1,23 @@
+{
+    "light_mech": [
+        "OmniCore_OW-1_UnitCard",
+        "OmniCore_OW-1A_UnitCard",
+        "OmniCore_OW-1B_UnitCard"
+    ],
+    "medium_mech": [
+        "OmniCore_BJ2-O_UnitCard",
+        "OmniCore_BJ2-OA_UnitCard",
+        "OmniCore_BJ2-OB_UnitCard",
+        "OmniCore_FS9-O_UnitCard",
+        "OmniCore_FS9-OA_UnitCard",
+        "OmniCore_FS9-OB_UnitCard",
+        "OmniCore_SR1-O_UnitCard",
+        "OmniCore_SR1-OB_UnitCard",
+        "OmniCore_SR1-OC_UnitCard"
+    ],
+    "assault_mech": [
+        "OmniCore_TLR1-O_UnitCard",
+        "OmniCore_TLR1-OA_UnitCard",
+        "OmniCore_TLR1-OB_UnitCard"
+    ]
+}
