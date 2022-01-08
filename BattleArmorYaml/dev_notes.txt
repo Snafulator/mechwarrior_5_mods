@@ -1,0 +1,19 @@
+Elemental left torso missile hardpoints:
+
+-90 deg Z to face forwards
+-20 deg X to lean outwards
+
+Y is fwd- back+
+X is up+ down-
+Z is left- right+
+
+
+Elemental right torso missile hardpoints:
+
+-90 deg Z to face forwards
+20 deg X to lean outwards
+
+Y is fwd- back+
+X is up+ down-
+Z is left- right+
+

@@ -1,0 +1,16 @@
+{
+	"BA_ELEMENTAL_SUIT": {
+		"stealth": true,
+		"armorComponentFrontMulti": "1.1",
+		"armorComponentRearMulti": "1.1",
+		"selfRepairArmor": "0.5",
+		"selfRepairStructure": "0.25",
+		"selfRepairDuration": "5",
+		"selfRepairInterval": "1",
+		"selfRepairScope": "mech",
+		"invalidMechParts": [
+			"Head"
+		],
+		"rarity": 0.0
+	}
+}
