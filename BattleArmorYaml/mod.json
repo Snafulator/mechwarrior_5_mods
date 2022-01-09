@@ -1,12 +1,11 @@
 {
-   "displayName" : "Poor Man's Battle Armor (Poomba) - YAML",
-   "version" : "1.0",
-   "description" : "Uses a scaled down vindicator and a whole lot of duct-tape to simulate the elemental experience. Be prepared to lose limbs and die repeatedly!\r\n\r\nRequired Mods:\r\n\r\nYet Another Mech Lab",
-   "author" : "Snafulator",
-   "authorURL" : "",
-   "defaultLoadOrder" : 0,
-   "gameVersion" : "1.1.0",
-   "manifest" : [
-   ],
-   "steamModVisibility" : "Private"
+	"displayName": "Poor Man's Battle Armor (Poomba) - YAML",
+	"version": "1.0",
+	"description": "Uses a scaled down vindicator and a whole lot of duct-tape to simulate the elemental experience. Be prepared to lose limbs and die repeatedly!\r\n\r\nI rate this mod a 2/5 and that is being generous. It is kind of fun though!\r\n\r\nRequired Mods:\r\n\r\nYet Another Mech Lab",
+	"author": "Snafulator",
+	"authorURL": "",
+	"defaultLoadOrder": 0,
+	"gameVersion": "1.1.0",
+	"manifest": [],
+	"steamModVisibility": "Public"
 }

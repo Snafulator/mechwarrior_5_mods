@@ -248,7 +248,8 @@
 		"Torso_Left_MH1_small",
 		"Torso_Right_MH1_small",
 		"Forearm_Right_EH1_small",
-		"Arm_Left_Hand_Actuator_Melee"
+		"Arm_Left_Hand_Actuator_Melee",
+		"Forearm_Left_BH1_small"
 	],
 	"blankWeaponHardPoints": [],
 	"bRecalculateFreeSlotsOnSave": true,
@@ -281,7 +282,7 @@
 					"Head": 1,
 					"CenterTorso": 1,
 					"LeftTorso": 10,
-					"LeftArm": 8,
+					"LeftArm": 7,
 					"LeftLeg": 1,
 					"RightTorso": 10,
 					"RightArm": 8,
