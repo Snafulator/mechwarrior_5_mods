@@ -51,6 +51,25 @@
 			}
 		},
 		{
+			"hardpointSlotId": "Forearm_Right_BH1_small",
+			"mechSkeletonSocketId": "Forearm_Right_Weapon",
+			"mechPart": "RightArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:BA_Ballistic_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.BA.Ballistic.Gauss\")": "/Game/Objects/Mechs/Centurion/Model/Weapons/Weapon_Mech_CN9_Forearm_Right_BH1_Gauss.Weapon_Mech_CN9_Forearm_Right_BH1_Gauss_C",
+				"(TagName=\"Weapon.BA.Ballistic.HMG\")": "/Game/Objects/Mechs/Centurion/Model/Weapons/Weapon_Mech_CN9_Forearm_Right_BH1_AC2.Weapon_Mech_CN9_Forearm_Right_BH1_AC2_C",
+				"(TagName=\"Weapon.BA.Ballistic.LMG\")": "/Game/Objects/Mechs/Centurion/Model/Weapons/Weapon_Mech_CN9_Forearm_Right_BH1_AC2.Weapon_Mech_CN9_Forearm_Right_BH1_AC2_C",
+				"(TagName=\"Weapon.BA.Ballistic.MG\")": "/Game/Objects/Mechs/Centurion/Model/Weapons/Weapon_Mech_CN9_Forearm_Right_BH1_AC2.Weapon_Mech_CN9_Forearm_Right_BH1_AC2_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Centurion/Model/Weapons/Weapon_Mech_CN9_Forearm_Right_BH1_AC10.Weapon_Mech_CN9_Forearm_Right_BH1_AC10_C",
+				"()": "None"
+			}
+		},
+		{
 			"hardpointSlotId": "Forearm_Left_BH1_small",
 			"mechSkeletonSocketId": "Forearm_Left_Weapon",
 			"mechPart": "LeftArm",
@@ -62,8 +81,9 @@
 			"hardpointVisuals":
 			{
 				"(TagName=\"Weapon.BA.Ballistic.Gauss\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Left_BH1_MG.Weapon_Mech_VND_Forearm_Left_BH1_MG_C",
-				"(TagName=\"Weapon.BA.Ballistic.MG\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Left_BH1_MG.Weapon_Mech_VND_Forearm_Left_BH1_MG_C",
-				"(TagName=\"Weapon.BA.Ballistic.LMG\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Left_BH1_LMG.Weapon_Mech_VND_Forearm_Left_BH1_LMG_C",
+				"(TagName=\"Weapon.BA.Ballistic.HMG\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Left_BH1_AC2.Weapon_Mech_VND_Forearm_Left_BH1_AC2_C",
+				"(TagName=\"Weapon.BA.Ballistic.LMG\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Left_BH1_AC2.Weapon_Mech_VND_Forearm_Left_BH1_AC2_C",
+				"(TagName=\"Weapon.BA.Ballistic.MG\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Left_BH1_AC2.Weapon_Mech_VND_Forearm_Left_BH1_AC2_C",
 				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Vindicator/Model/Weapons/Weapon_Mech_VND_Forearm_Left_BH1_MG.Weapon_Mech_VND_Forearm_Left_BH1_MG_C",
 				"()": "None"
 			}
