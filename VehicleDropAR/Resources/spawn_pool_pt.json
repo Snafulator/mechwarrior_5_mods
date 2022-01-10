@@ -1,0 +1,112 @@
+{
+    "light_vehicle": [
+        "Asshur_Standard_UnitCard",
+        "Asshur_Artillery_UnitCard"
+    ],
+    "heavy_vehicle": [
+        "Athena_UnitCard"
+    ],
+    "aircraft": [
+        "VTOL_Anhur_UnitCard"
+    ],
+    "light_mech": [
+        "WSP-7MAF_UnitCard",
+        "WSP-5A_UnitCard",
+        "WSP-4W_UnitCard",
+        "WSP-3S_UnitCard",
+        "WSP-3M_UnitCard",
+        "WSP-3L_UnitCard",
+        "WSP-3K_UnitCard",
+        "WSP-3A_UnitCard",
+        "WSP-2A-X_UnitCard",
+        "WSP-1W_UnitCard",
+        "WSP-1S_UnitCard",
+        "WSP-1L_UnitCard",
+        "WSP-1D_UnitCard",
+        "WSP-1A_UnitCard",
+        "WSP-1_UnitCard"
+        "WSP-8T_UnitCard",
+        "STG-3Gb_UnitCard",
+        "STG-3G_UnitCard",
+        "STG-5M_UnitCard",
+        "STG-3R_UnitCard",
+        "STG-3Gb_UnitCard",
+        "STG-3GRGH-1A_UnitCard",
+        "RVN-3L-I_UnitCard",
+        "RVN-3L-D_UnitCard",
+        "JVN-10N-I_UnitCard",
+        "JVN-10N-D_UnitCard",
+        "COM-2D-I_UnitCard",
+        "COM-2D-D_UnitCard",
+        "LCT-THR_UnitCard",
+        "LCT-1Vb_UnitCard",
+        "LCT-1S_UnitCard",
+        "LCT-1Vb_UnitCard",
+        "LCT-K1-1_UnitCard",
+        "HMC-15_UnitCard",
+        "HMC-14_UnitCard",
+        "HMC-13_UnitCard",
+        "KT-P2_UnitCard",
+        "BZK-F3_UnitCard"
+    ],
+    "medium_mech": [
+        "WVE-5N_UnitCard",
+        "WTH-1_UnitCard",
+        "WTH-1S_UnitCard",
+        "WTH-0_UnitCard",
+        "WVR-6K-I_UnitCard",
+        "WVR-6K-D_UnitCard",
+        "KTO-18-I_UnitCard",
+        "KTO-18-D_UnitCard",
+        "HBK-4SP-I_UnitCard",
+        "HBK-4SP-D_UnitCard",
+        "LH2-O_UnitCard",
+        "LH-W_UnitCard",
+        "LH-P_UnitCard",
+        "LH-3_UnitCard",
+        "LH-2_UnitCard",
+        "DV-6M-I_UnitCard",
+        "DV-6M-D_UnitCard",
+        "HND_7_UnitCard",
+        "HND_6_UnitCard",
+        "HND_2_UnitCard",
+        "HND_1_UnitCard",
+        "DVS-3_UnitCard",
+        "DVS-2_UnitCard",
+        "DVS-1D_UnitCard",
+        "CN11-O_UnitCard",
+        "CN9-AAS_UnitCard"
+    ],
+    "heavy_mech": [
+        "RGH-1A_UnitCard",
+        "TDR-5SS-I_UnitCard",
+        "TDR-5SS-D_UnitCard",
+        "QKD-4G-I_UnitCard",
+        "QKD-4G-D_UnitCard",
+        "ON1-V-I_UnitCard",
+        "ON1-V-D_UnitCard",
+        "MAD-M_UnitCard",
+        "HMH-3D_UnitCard",
+        "HMH-3D_Kessem_UnitCard",
+        "HMH-4D_UnitCard"
+    ],
+    "assault_mech": [
+        "HTM-26T-I_UnitCard",
+        "HTM-26T-D_UnitCard",
+        "AS7-D-I_UnitCard",
+        "AS7-D-D_UnitCard",
+        "AS7-DDC_UnitCard",
+        "MAL-XV_UnitCard",
+        "MAL-XT_UnitCard",
+        "BNC-DB_UnitCard"
+    ],
+    "atlas_mech": [
+        "AS7-D-I_UnitCard",
+        "AS7-D-D_UnitCard",
+        "AS7-DDC_UnitCard"
+    ],
+    "scout_mech": [
+        "RVN-3L-I_UnitCard",
+        "RVN-3L-D_UnitCard"
+    ]
+}

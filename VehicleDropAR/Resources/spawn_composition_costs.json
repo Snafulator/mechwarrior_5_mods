@@ -19,6 +19,6 @@
     "urbocalypse": 1120000,
     "single_archer": 100000,
     "single_scout": 35000,
-    "elemental_point": 25000,
-    "elemental_star": 125000
+    "battle_armor_point": 25000,
+    "battle_armor_star": 125000
 }
