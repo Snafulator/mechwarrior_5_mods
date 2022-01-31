@@ -1,11 +1,13 @@
 {
    "displayName": "Poor Man's Battle Armor (Poomba) - YAML - 3014 Gameplay",
    "version": "1.0",
+   "buildNumber": 1,
    "description": "Available from 3014 (gameplay version).\r\n\r\nUses a scaled down vindicator and a whole lot of duct-tape to simulate the elemental experience. Be prepared to lose limbs and die repeatedly!\r\n\r\nI rate this mod a 2/5 and that is being generous. It is kind of fun though!\r\n\r\nRequired Mods:\r\n\r\nYet Another Mech Lab",
    "author": "Snafulator",
    "authorURL": "",
    "defaultLoadOrder": 0,
    "gameVersion": "1.1.0",
    "manifest": [],
+   "steamLastSubmittedBuildNumber": 1,
    "steamModVisibility": "Public"
 }

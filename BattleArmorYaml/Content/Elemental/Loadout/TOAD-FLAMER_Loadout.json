@@ -1,7 +1,7 @@
 {
 	"mechDataAssetId":
 	{
-		"id": "MWMechDataAsset:TOAD-GAUSS_MDA"
+		"id": "MWMechDataAsset:TOAD-FLAMER_MDA"
 	},
 	"customName": "",
 	"skinCustomization":
@@ -60,9 +60,9 @@
 	},
 	"currentRearArmor":
 	{
-		"centerTorsoRear": 3,
-		"leftTorsoRear": 2,
-		"rightTorsoRear": 2
+		"centerTorsoRear": 4,
+		"leftTorsoRear": 3,
+		"rightTorsoRear": 3
 	},
 	"installedArmor":
 	{
@@ -77,9 +77,9 @@
 	},
 	"installedRearArmor":
 	{
-		"centerTorsoRear": 3,
-		"leftTorsoRear": 2,
-		"rightTorsoRear": 2
+		"centerTorsoRear": 4,
+		"leftTorsoRear": 3,
+		"rightTorsoRear": 3
 	},
 	"installedWeapons": [
 		{
@@ -105,6 +105,17 @@
 			}
 		},
 		{
+			"hardpointSlotId": "Forearm_Right_EH1_small",
+			"weaponData":
+			{
+				"weaponId":
+				{
+					"id": "MWTraceWeaponDataAsset:BA_Flamer"
+				},
+				"healthState": "Healthy"
+			}
+		},
+		{
 			"hardpointSlotId": "Arm_Left_Hand_Actuator_Melee",
 			"weaponData":
 			{
@@ -122,17 +133,6 @@
 				"weaponId":
 				{
 					"id": ""
-				},
-				"healthState": "Healthy"
-			}
-		},
-		{
-			"hardpointSlotId": "Forearm_Right_BH1_small",
-			"weaponData":
-			{
-				"weaponId":
-				{
-					"id": "MWProjectileWeaponDataAsset:BA_Gauss"
 				},
 				"healthState": "Healthy"
 			}
@@ -160,6 +160,15 @@
 				"bWeaponGroup6": false
 			},
 			{
+				"hardpointSlotId": "Forearm_Right_EH1_small",
+				"bWeaponGroup1": false,
+				"bWeaponGroup2": true,
+				"bWeaponGroup3": false,
+				"bWeaponGroup4": true,
+				"bWeaponGroup5": false,
+				"bWeaponGroup6": false
+			},
+			{
 				"hardpointSlotId": "Arm_Left_Hand_Actuator_Melee",
 				"bWeaponGroup1": true,
 				"bWeaponGroup2": false,
@@ -172,15 +181,6 @@
 				"hardpointSlotId": "Forearm_Left_BH1_small",
 				"bWeaponGroup1": false,
 				"bWeaponGroup2": false,
-				"bWeaponGroup3": false,
-				"bWeaponGroup4": false,
-				"bWeaponGroup5": false,
-				"bWeaponGroup6": false
-			},
-			{
-				"hardpointSlotId": "Forearm_Right_BH1_small",
-				"bWeaponGroup1": false,
-				"bWeaponGroup2": true,
 				"bWeaponGroup3": false,
 				"bWeaponGroup4": false,
 				"bWeaponGroup5": false,
@@ -456,26 +456,6 @@
 							"equipmentId":
 							{
 								"id": "MWJumpJetDataAsset:BA_JumpJet_Equipment"
-							},
-							"healthState": "Healthy"
-						}
-					}
-				]
-			},
-			{
-				"mechPart": "RightArm",
-				"slottedEquipment": [
-					{
-						"slotId": 0,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWAmmoDataAsset:BA_Gauss_AmmoEquipment"
 							},
 							"healthState": "Healthy"
 						}

@@ -1,6 +1,7 @@
 {
    "displayName" : "Poor Man's Battle Armor (Poomba) - YAML - 3049 Lore",
    "version" : "1.0",
+   "buildNumber" : 70,
    "description" : "Uses a scaled down vindicator and a whole lot of duct-tape to simulate the elemental experience. Be prepared to lose libs and die repeatedly!\r\n\r\nLore-friendly release has mechs available from 3049 in Rasalhague territory.\r\n\r\nI rate this mod a 2/5 and that is being generous. It is kind of fun though!\r\n\r\nRequired Mods:\r\n\r\nYet Another Mech Lab",
    "author" : "Snafulator",
    "authorURL" : "",
@@ -9,5 +10,6 @@
    "manifest" : [
       
    ],
+   "steamLastSubmittedBuildNumber" : "70",
    "steamModVisibility" : "Public"
 }
