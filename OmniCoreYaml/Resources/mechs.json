@@ -112,21 +112,21 @@
 		]
 	},
 	"OW-1": {
-		"scale": "X=1.16 Y=1.18 Z=1.14",
+		"scale": "X=1.16 Y=1.16 Z=1.16",
 		"quirks": [
 			"OC_OMNIMECH",
 			"OC_SENSORSIMPROVED"
 		]
 	},
 	"OW-1A": {
-		"scale": "X=1.16 Y=1.18 Z=1.14",
+		"scale": "X=1.16 Y=1.16 Z=1.16v",
 		"quirks": [
 			"OC_OMNIMECH",
 			"OC_SENSORSIMPROVED"
 		]
 	},
 	"OW-1B": {
-		"scale": "X=1.16 Y=1.18 Z=1.14",
+		"scale": "X=1.16 Y=1.16 Z=1.16",
 		"quirks": [
 			"OC_OMNIMECH",
 			"OC_SENSORSIMPROVED"
