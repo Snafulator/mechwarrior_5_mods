@@ -259,13 +259,13 @@
 						"slotId": 0,
 						"slotTypeAssetId":
 						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
+							"id": "MWSlotTypeDataAsset:JumpJetClass4_SlotType"
 						},
 						"equipmentData":
 						{
 							"equipmentId":
 							{
-								"id": "MWHeatSinkDataAsset:XLfiller"
+								"id": "MWJumpJetDataAsset:JumpJet_Class4_Equipment"
 							},
 							"healthState": "Healthy"
 						}
@@ -304,21 +304,6 @@
 						"slotId": 3,
 						"slotTypeAssetId":
 						{
-							"id": "MWSlotTypeDataAsset:JumpJetClass4_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWJumpJetDataAsset:JumpJet_Class4_Equipment"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 4,
-						"slotTypeAssetId":
-						{
 							"id": "MWSlotTypeDataAsset:General_SlotType"
 						},
 						"equipmentData":
@@ -326,36 +311,6 @@
 							"equipmentId":
 							{
 								"id": "MWHeatSinkDataAsset:DoubleHeatSink"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 5,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 6,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
 							},
 							"healthState": "Healthy"
 						}
@@ -369,13 +324,13 @@
 						"slotId": 0,
 						"slotTypeAssetId":
 						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
+							"id": "MWSlotTypeDataAsset:JumpJetClass4_SlotType"
 						},
 						"equipmentData":
 						{
 							"equipmentId":
 							{
-								"id": "MWHeatSinkDataAsset:XLfiller"
+								"id": "MWJumpJetDataAsset:JumpJet_Class4_Equipment"
 							},
 							"healthState": "Healthy"
 						}
@@ -412,21 +367,6 @@
 					},
 					{
 						"slotId": 3,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:JumpJetClass4_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWJumpJetDataAsset:JumpJet_Class4_Equipment"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 4,
 						"slotTypeAssetId":
 						{
 							"id": "MWSlotTypeDataAsset:General_SlotType"
@@ -474,83 +414,13 @@
 						"slotId": 7,
 						"slotTypeAssetId":
 						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
+							"id": "MWSlotTypeDataAsset:OC_CASE_SlotType"
 						},
 						"equipmentData":
 						{
 							"equipmentId":
 							{
-								"id": "MWAmmoDataAsset:AC5_LBX_79_Half_AmmoEquipment"
-							},
-							"healthState": "Healthy"
-						}
-					}
-				]
-			},
-			{
-				"mechPart": "LeftLeg",
-				"slottedEquipment": [
-					{
-						"slotId": 0,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 1,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
-							},
-							"healthState": "Healthy"
-						}
-					}
-				]
-			},
-			{
-				"mechPart": "RightLeg",
-				"slottedEquipment": [
-					{
-						"slotId": 0,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 1,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
+								"id": "MWHeatSinkDataAsset:OC_CASE"
 							},
 							"healthState": "Healthy"
 						}
@@ -585,7 +455,7 @@
 						{
 							"equipmentId":
 							{
-								"id": "MWHeatSinkDataAsset:XL270"
+								"id": "MWHeatSinkDataAsset:OC_XL270"
 							},
 							"healthState": "Healthy"
 						}
@@ -604,133 +474,18 @@
 							},
 							"healthState": "Healthy"
 						}
-					}
-				]
-			},
-			{
-				"mechPart": "RightArm",
-				"slottedEquipment": [
-					{
-						"slotId": 0,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 1,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 2,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
-							},
-							"healthState": "Healthy"
-						}
-					}
-				]
-			},
-			{
-				"mechPart": "LeftArm",
-				"slottedEquipment": [
-					{
-						"slotId": 0,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 1,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 2,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
-							},
-							"healthState": "Healthy"
-						}
 					},
 					{
 						"slotId": 3,
 						"slotTypeAssetId":
 						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
+							"id": "MWSlotTypeDataAsset:Gyro"
 						},
 						"equipmentData":
 						{
 							"equipmentId":
 							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 4,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
+								"id": "MWHeatSinkDataAsset:OC_GYRO"
 							},
 							"healthState": "Healthy"
 						}

@@ -139,7 +139,7 @@
 					"bBeagleActiveProbe": false,
 					"heatSinks": 2,
 					"componentAmmo": [],
-					"jumpJets": 0
+					"jumpJets": 2
 				},
 				"leftTorso":
 				{
@@ -149,7 +149,7 @@
 					"bBeagleActiveProbe": false,
 					"heatSinks": 5,
 					"componentAmmo": [],
-					"jumpJets": 0
+					"jumpJets": 2
 				},
 				"rightTorso":
 				{
@@ -159,7 +159,7 @@
 					"bBeagleActiveProbe": false,
 					"heatSinks": 3,
 					"componentAmmo": [],
-					"jumpJets": 0
+					"jumpJets": 2
 				},
 				"leftArm":
 				{
@@ -292,10 +292,10 @@
 					"Head": 1,
 					"CenterTorso": 4,
 					"LeftTorso": 12,
-					"LeftArm": 10,
+					"LeftArm": 11,
 					"LeftLeg": 2,
 					"RightTorso": 12,
-					"RightArm": 10,
+					"RightArm": 11,
 					"RightLeg": 2
 				}
 			},
@@ -443,7 +443,7 @@
 	"engineRating": 340,
 	"bXLEngine": true,
 	"baseChassisCost": 18113842,
-	"salvageShareCost": 52,
+	"salvageShareCost": 55,
 	"bIsHeroMech": false,
 	"bIsDefaultVariant": true
 }

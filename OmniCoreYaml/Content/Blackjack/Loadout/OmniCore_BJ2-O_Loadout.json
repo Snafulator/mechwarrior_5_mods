@@ -44,8 +44,8 @@
 		"rightTorso": 24,
 		"leftArm": 17,
 		"rightArm": 17,
-		"leftLeg": 23,
-		"rightLeg": 23
+		"leftLeg": 24,
+		"rightLeg": 24
 	},
 	"currentArmor":
 	{
@@ -340,7 +340,7 @@
 						{
 							"equipmentId":
 							{
-								"id": "MWHeatSinkDataAsset:XL200"
+								"id": "MWHeatSinkDataAsset:OC_XL200"
 							},
 							"healthState": "Healthy"
 						}
@@ -370,28 +370,13 @@
 						{
 							"equipmentId":
 							{
-								"id": "MWHeatSinkDataAsset:GYRO5"
+								"id": "MWHeatSinkDataAsset:OC_GYRO"
 							},
 							"healthState": "Healthy"
 						}
 					},
 					{
 						"slotId": 4,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:ENDO_filler"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 5,
 						"slotTypeAssetId":
 						{
 							"id": "MWSlotTypeDataAsset:General_SlotType"
@@ -420,28 +405,13 @@
 						{
 							"equipmentId":
 							{
-								"id": "MWHeatSinkDataAsset:XLfiller"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 1,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
 								"id": "MWAmmoDataAsset:AC5_Ultra_AmmoEquipment"
 							},
 							"healthState": "Healthy"
 						}
 					},
 					{
-						"slotId": 2,
+						"slotId": 1,
 						"slotTypeAssetId":
 						{
 							"id": "MWSlotTypeDataAsset:JumpJetClass4_SlotType"
@@ -456,7 +426,7 @@
 						}
 					},
 					{
-						"slotId": 3,
+						"slotId": 2,
 						"slotTypeAssetId":
 						{
 							"id": "MWSlotTypeDataAsset:JumpJetClass4_SlotType"
@@ -485,28 +455,13 @@
 						{
 							"equipmentId":
 							{
-								"id": "MWHeatSinkDataAsset:XLfiller"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 1,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
 								"id": "MWAmmoDataAsset:AC5_Ultra_AmmoEquipment"
 							},
 							"healthState": "Healthy"
 						}
 					},
 					{
-						"slotId": 2,
+						"slotId": 1,
 						"slotTypeAssetId":
 						{
 							"id": "MWSlotTypeDataAsset:JumpJetClass4_SlotType"
@@ -521,7 +476,7 @@
 						}
 					},
 					{
-						"slotId": 3,
+						"slotId": 2,
 						"slotTypeAssetId":
 						{
 							"id": "MWSlotTypeDataAsset:JumpJetClass4_SlotType"

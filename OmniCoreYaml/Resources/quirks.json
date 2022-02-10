@@ -30,7 +30,7 @@
 		"description": "This 'Mech comes equipped with an advanced sensor suite.",
 		"color": "(R=0.5,G=1.0,B=0.0,A=1)",
 		"properties": {
-			"sensorRangeMulti": 1.1
+			"sensorRangeMulti": 1.2
 		}
 	},
 	"OC_PILOTEASY":{
@@ -40,6 +40,36 @@
 		"properties": {
 			"turnSpeedMulti": 1.1,
 			"decelerationMulti": 1.1			
+		}
+	},
+	"OC_BATTLE_COMPS":{
+		"name": "Battle-Computer Array",
+		"description": "This 'Mech has an array of battle computers, giving it advanced targeting features.",
+		"color": "(R=0.88,G=0.19,B=0.01,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Laser",
+						"tags": [
+							"Weapon.Energy.Laser"
+						],
+						"durationMulti": 0.95,
+						"maxRangeMulti": 1.1
+					},
+					{
+						"weaponGroupName": "Projectile",
+						"tags": [
+							"Weapon.Ballistic",
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile",
+							"Weapon.Energy.ParticleCannon"
+						],
+						"speedMulti": 1.1,
+						"maxRangeMulti": 1.1
+					}
+				]
+			}
 		}
 	},
 	"OC_TARGETINGIMPROVED":{
@@ -81,6 +111,62 @@
 						"weaponGroupName": "Weapon",
 						"tags": [
 							"Weapon"
+						],
+						"maxRangeMulti": 1.1
+					}
+				]
+			}
+		}
+	},
+	"OC_FCS_ENERGY_CRIT":{
+		"name": "FCS Energy Crit",
+		"description": "A Mech's Fire Control System coordinates and analyzes the vast amount of information brought in by Sensors in order to track units, generate firing solutions and hit targets.",
+		"color": "(R=0.88,G=0.19,B=0.01,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Laser",
+						"tags": [
+							"Weapon.Energy.Laser"
+						],
+						"damageMulti": 1.1
+					}
+				]
+			}
+		}
+	},
+	"OC_FCS_MISSILE_SPEED":{
+		"name": "FCS Missile Speed",
+		"description": "A Mech's Fire Control System coordinates and analyzes the vast amount of information brought in by Sensors in order to track units, generate firing solutions and hit targets.",
+		"color": "(R=0.88,G=0.19,B=0.01,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Projectile",
+						"tags": [
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile"
+						],
+						"speedMulti": 1.1
+					}
+				]
+			}
+		}
+	},
+	"OC_FCS_ARTEMIS":{
+		"name": "FCS Artemis II",
+		"description": "The Artemis II Fire Control System is a basic guidance system for Missiles, offering automated Fly by Wire Guidance but being easily fooled by Countermeasures.",
+		"color": "(R=0.88,G=0.19,B=0.01,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Projectile",
+						"tags": [
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile"
 						],
 						"maxRangeMulti": 1.1
 					}

@@ -214,8 +214,8 @@
 			"rightTorso": 24,
 			"leftArm": 17,
 			"rightArm": 17,
-			"leftLeg": 23,
-			"rightLeg": 23
+			"leftLeg": 24,
+			"rightLeg": 24
 		},
 		"maxArmor":
 		{
@@ -225,7 +225,7 @@
 			"rightTorso": 48,
 			"leftArm": 34,
 			"rightArm": 34,
-			"leftLeg": 46,
+			"leftLeg": 48,
 			"rightLeg": 48
 		}
 	},
@@ -448,7 +448,7 @@
 	"engineRating": 200,
 	"bXLEngine": true,
 	"baseChassisCost": 5834499,
-	"salvageShareCost": 24,
+	"salvageShareCost": 29,
 	"bIsHeroMech": false,
 	"bIsDefaultVariant": true
 }

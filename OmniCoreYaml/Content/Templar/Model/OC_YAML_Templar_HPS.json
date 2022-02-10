@@ -37,7 +37,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -86,7 +86,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -135,7 +135,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -213,7 +213,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -291,7 +291,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -369,7 +369,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -447,7 +447,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -525,7 +525,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -603,7 +603,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -676,7 +676,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -749,7 +749,80 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.HPPC\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_HPPC.Weapon_Mech_AWS_Forearm_Left_EH1_HPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.PPC\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_PPC.Weapon_Mech_AWS_Forearm_Left_EH1_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.ERPPC\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_PPC.Weapon_Mech_AWS_Forearm_Left_EH1_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_SNPPC.Weapon_Mech_AWS_Forearm_Left_EH1_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_LPPC.Weapon_Mech_AWS_Forearm_Left_EH1_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Chemical.Large\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Chemical.Medium\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Chemical.Small\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Flamer.Weapon_Mech_AWS_Forearm_Left_EH1_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_SNPPC.Weapon_Mech_AWS_Forearm_Left_EH1_SNPPC_C",
+				"(TagName=\"Weapon.Missile.SRM.Streak.SRM2\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile2.Weapon_Mech_AWS_Forearm_Left_MH1_Missile2_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile20.Weapon_Mech_AWS_Forearm_Left_MH1_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM20\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile20.Weapon_Mech_AWS_Forearm_Left_MH1_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20.Clan\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile20.Weapon_Mech_AWS_Forearm_Left_MH1_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM15\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile15.Weapon_Mech_AWS_Forearm_Left_MH1_Missile15_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM15\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile15.Weapon_Mech_AWS_Forearm_Left_MH1_Missile15_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM10\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile10.Weapon_Mech_AWS_Forearm_Left_MH1_Missile10_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM10\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile10.Weapon_Mech_AWS_Forearm_Left_MH1_Missile10_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM6\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile6.Weapon_Mech_AWS_Forearm_Left_MH1_Missile6_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM6\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile6.Weapon_Mech_AWS_Forearm_Left_MH1_Missile6_C",
+				"(TagName=\"Weapon.Missile.NARC\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Narc.Weapon_Mech_AWS_Forearm_Left_MH1_Narc_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM5\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile5.Weapon_Mech_AWS_Forearm_Left_MH1_Missile5_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM5\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile5.Weapon_Mech_AWS_Forearm_Left_MH1_Missile5_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM4\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile4.Weapon_Mech_AWS_Forearm_Left_MH1_Missile4_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM4\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile4.Weapon_Mech_AWS_Forearm_Left_MH1_Missile4_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM2\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile2.Weapon_Mech_AWS_Forearm_Left_MH1_Missile2_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM2\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile2.Weapon_Mech_AWS_Forearm_Left_MH1_Missile2_C",
+				"(TagName=\"Weapon.Ballistic.MG.MachineGun\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_MG.Weapon_Mech_TLR1_Forearm_Left_BH3_MG_C",
+				"(TagName=\"Weapon.Ballistic.GaussRifle.Gauss\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_Gauss.Weapon_Mech_TLR1_Forearm_Left_BH3_Gauss_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC20\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_Gauss.Weapon_Mech_TLR1_Forearm_Left_BH3_Gauss_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC20\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_Gauss.Weapon_Mech_TLR1_Forearm_Left_BH3_Gauss_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC10\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_UAC10.Weapon_Mech_TLR1_Forearm_Left_BH3_UAC10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC10\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_AC10.Weapon_Mech_TLR1_Forearm_Left_BH3_AC10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX10\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_Lbx10.Weapon_Mech_TLR1_Forearm_Left_BH3_Lbx10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Rotary.RAC5\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_Rac5.Weapon_Mech_TLR1_Forearm_Left_BH3_Rac5_C",
+				"(TagName=\"Weapon.Ballistic.GaussRifle.LightGauss\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_Lgauss.Weapon_Mech_TLR1_Forearm_Left_BH3_Lgauss_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC5\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_UAC5.Weapon_Mech_TLR1_Forearm_Left_BH3_UAC5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX5\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_Lbx5.Weapon_Mech_TLR1_Forearm_Left_BH3_Lbx5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC5\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_AC5.Weapon_Mech_TLR1_Forearm_Left_BH3_AC5_C",
+				"(TagName=\"Weapon.Ballistic.Rifle.MediumRifle\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_AC5.Weapon_Mech_TLR1_Forearm_Left_BH3_AC5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX2\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_Lbx2.Weapon_Mech_TLR1_Forearm_Left_BH3_Lbx2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Rotary.RAC2\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_Rac2.Weapon_Mech_TLR1_Forearm_Left_BH3_Rac2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC2\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_UAC2.Weapon_Mech_TLR1_Forearm_Left_BH3_UAC2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC2\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_AC2.Weapon_Mech_TLR1_Forearm_Left_BH3_AC2_C",
+				"(TagName=\"Weapon.Ballistic.Rifle.LightRifle\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_AC2.Weapon_Mech_TLR1_Forearm_Left_BH3_AC2_C",
+				"(TagName=\"Weapon.Ballistic.MG.HeavyMachineGun\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_HMG.Weapon_Mech_TLR1_Forearm_Left_BH3_HMG_C",
+				"(TagName=\"Weapon.Ballistic.MG.LightMachineGun\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Left/BH3/Weapon_Mech_TLR1_Forearm_Left_BH3_LMG.Weapon_Mech_TLR1_Forearm_Left_BH3_LMG_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_EH1_Laser.Weapon_Mech_AWS_Forearm_Left_EH1_Laser_C",
+				"()": "None"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Left_OH4",
+			"mechSkeletonSocketId": "Forearm_Left_Weapon",
+			"mechPart": "LeftArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -822,7 +895,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -896,7 +969,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -969,7 +1042,81 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
+			},
+			"hardpointVisuals":
+			{
+				"(TagName=\"Weapon.Energy.ParticleCannon.PPC\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_PPC.Weapon_Mech_TLR1_Forearm_Right_EH3_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.HPPC\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_HPPC.Weapon_Mech_TLR1_Forearm_Right_EH3_HPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.ERPPC\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_PPC.Weapon_Mech_TLR1_Forearm_Right_EH3_PPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.SNPPC\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_SNPPC.Weapon_Mech_TLR1_Forearm_Right_EH3_SNPPC_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon.LPPC\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_LPPC.Weapon_Mech_TLR1_Forearm_Right_EH3_LPPC_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Large\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Large.Clan\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Large\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Medium\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.ER.Medium.Clan\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Medium.Clan\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Standard.Small\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Pulse.Small\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.TAG\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Chemical.Large\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Chemical.Medium\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Laser.Chemical.Small\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Laser.Weapon_Mech_TLR1_Forearm_Right_EH3_Laser_C",
+				"(TagName=\"Weapon.Energy.Flamer\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_Flamer.Weapon_Mech_TLR1_Forearm_Right_EH3_Flamer_C",
+				"(TagName=\"Weapon.Energy.ParticleCannon\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/EH3/Weapon_Mech_TLR1_Forearm_Right_EH3_SNPPC.Weapon_Mech_TLR1_Forearm_Right_EH3_SNPPC_C",
+				"(TagName=\"Weapon.Missile.SRM.Streak.SRM2\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile2.Weapon_Mech_AWS_Forearm_Left_MH1_Missile2_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile20.Weapon_Mech_AWS_Forearm_Left_MH1_Missile20_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM20\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile20.Weapon_Mech_AWS_Forearm_Left_MH1_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM20.Clan\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile20.Weapon_Mech_AWS_Forearm_Left_MH1_Missile20_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM15\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile15.Weapon_Mech_AWS_Forearm_Left_MH1_Missile15_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM15\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile15.Weapon_Mech_AWS_Forearm_Left_MH1_Missile15_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM10\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile10.Weapon_Mech_AWS_Forearm_Left_MH1_Missile10_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM10\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile10.Weapon_Mech_AWS_Forearm_Left_MH1_Missile10_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM6\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile6.Weapon_Mech_AWS_Forearm_Left_MH1_Missile6_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM6\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile6.Weapon_Mech_AWS_Forearm_Left_MH1_Missile6_C",
+				"(TagName=\"Weapon.Missile.NARC\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Narc.Weapon_Mech_AWS_Forearm_Left_MH1_Narc_C",
+				"(TagName=\"Weapon.Missile.LRM.LRM5\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile5.Weapon_Mech_AWS_Forearm_Left_MH1_Missile5_C",
+				"(TagName=\"Weapon.ArtemisMissile.LRM.LRM5\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile5.Weapon_Mech_AWS_Forearm_Left_MH1_Missile5_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM4\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile4.Weapon_Mech_AWS_Forearm_Left_MH1_Missile4_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM4\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile4.Weapon_Mech_AWS_Forearm_Left_MH1_Missile4_C",
+				"(TagName=\"Weapon.Missile.SRM.SRM2\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile2.Weapon_Mech_AWS_Forearm_Left_MH1_Missile2_C",
+				"(TagName=\"Weapon.ArtemisMissile.SRM.SRM2\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Left_MH1_Missile2.Weapon_Mech_AWS_Forearm_Left_MH1_Missile2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC5\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_UAC5.Weapon_Mech_TLR1_Forearm_Right_BH3_UAC5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC20\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_UAC20.Weapon_Mech_TLR1_Forearm_Right_BH3_UAC20_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC20\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_AC20.Weapon_Mech_TLR1_Forearm_Right_BH3_AC20_C",
+				"(TagName=\"Weapon.Ballistic.Rifle.HeavyRifle\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_AC20.Weapon_Mech_TLR1_Forearm_Right_BH3_AC20_C",
+				"(TagName=\"Weapon.Ballistic.GaussRifle.Gauss\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_Gauss.Weapon_Mech_TLR1_Forearm_Right_BH3_Gauss_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC10\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_UAC10.Weapon_Mech_TLR1_Forearm_Right_BH3_UAC10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC10\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_AC10.Weapon_Mech_TLR1_Forearm_Right_BH3_AC10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX10\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_Lbx10.Weapon_Mech_TLR1_Forearm_Right_BH3_Lbx10_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Rotary.RAC5\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_Rac5.Weapon_Mech_TLR1_Forearm_Right_BH3_Rac5_C",
+				"(TagName=\"Weapon.Ballistic.GaussRifle.LightGauss\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_Lgauss.Weapon_Mech_TLR1_Forearm_Right_BH3_Lgauss_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX5\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_Lbx5.Weapon_Mech_TLR1_Forearm_Right_BH3_Lbx5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC5\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_AC5.Weapon_Mech_TLR1_Forearm_Right_BH3_AC5_C",
+				"(TagName=\"Weapon.Ballistic.Rifle.MediumRifle\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_AC5.Weapon_Mech_TLR1_Forearm_Right_BH3_AC5_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.LBX.LBX2\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_Lbx2.Weapon_Mech_TLR1_Forearm_Right_BH3_Lbx2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Rotary.RAC2\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_Rac2.Weapon_Mech_TLR1_Forearm_Right_BH3_Rac2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Ultra.AC2\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_UAC2.Weapon_Mech_TLR1_Forearm_Right_BH3_UAC2_C",
+				"(TagName=\"Weapon.Ballistic.AutoCannon.Standard.AC2\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_UAC2.Weapon_Mech_TLR1_Forearm_Right_BH3_UAC2_C",
+				"(TagName=\"Weapon.Ballistic.Rifle.LightRifle\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_UAC2.Weapon_Mech_TLR1_Forearm_Right_BH3_UAC2_C",
+				"(TagName=\"Weapon.Ballistic.MG.HeavyMachineGun\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_HMG.Weapon_Mech_TLR1_Forearm_Right_BH3_HMG_C",
+				"(TagName=\"Weapon.Ballistic.MG.MachineGun\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_MG.Weapon_Mech_TLR1_Forearm_Right_BH3_MG_C",
+				"(TagName=\"Weapon.Ballistic.MG.LightMachineGun\")": "/OmniCoreYaml/Templar/Model/Weapons/Forearm_Right/BH3/Weapon_Mech_TLR1_Forearm_Right_BH3_LMG.Weapon_Mech_TLR1_Forearm_Right_BH3_LMG_C",
+				"(TagName=\"Weapon\")": "/Game/Objects/Mechs/Awesome/Model/Weapons/Weapon_Mech_AWS_Forearm_Right_EH1_PPC.Weapon_Mech_AWS_Forearm_Right_EH1_PPC_C",
+				"()": "None"
+			}
+		},
+		{
+			"hardpointSlotId": "Forearm_Right_OH4",
+			"mechSkeletonSocketId": "Forearm_Right_Weapon",
+			"mechPart": "RightArm",
+			"bHideOnPartDestruction": true,
+			"slotTypeAssetId":
+			{
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{

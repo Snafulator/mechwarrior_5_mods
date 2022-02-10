@@ -70,7 +70,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -154,7 +154,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -238,7 +238,7 @@
 			"bHideOnPartDestruction": false,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -322,7 +322,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -406,7 +406,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -465,7 +465,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -524,7 +524,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{
@@ -583,7 +583,7 @@
 			"bHideOnPartDestruction": true,
 			"slotTypeAssetId":
 			{
-				"id": "MWSlotTypeDataAsset:OmniPod_SlotType"
+				"id": "MWSlotTypeDataAsset:OC_OmniPod_SlotType"
 			},
 			"hardpointVisuals":
 			{

@@ -391,7 +391,7 @@
 						}
 					},
 					{
-						"slotId": 3,
+						"slotId": 1,
 						"slotTypeAssetId":
 						{
 							"id": "MWSlotTypeDataAsset:Gyro"
@@ -400,7 +400,7 @@
 						{
 							"equipmentId":
 							{
-								"id": "MWHeatSinkDataAsset:GYRO5"
+								"id": "MWHeatSinkDataAsset:OC_GYRO"
 							},
 							"healthState": "Healthy"
 						}
@@ -430,7 +430,7 @@
 						{
 							"equipmentId":
 							{
-								"id": "MWHeatSinkDataAsset:XL270"
+								"id": "MWHeatSinkDataAsset:OC_XL270"
 							},
 							"healthState": "Healthy"
 						}
@@ -511,21 +511,6 @@
 							"equipmentId":
 							{
 								"id": "MWJumpJetDataAsset:JumpJet_Class5_Equipment"
-							},
-							"healthState": "Healthy"
-						}
-					},
-					{
-						"slotId": 5,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:XLfiller"
 							},
 							"healthState": "Healthy"
 						}
@@ -625,21 +610,6 @@
 							},
 							"healthState": "Healthy"
 						}
-					},
-					{
-						"slotId": 6,
-						"slotTypeAssetId":
-						{
-							"id": "MWSlotTypeDataAsset:General_SlotType"
-						},
-						"equipmentData":
-						{
-							"equipmentId":
-							{
-								"id": "MWHeatSinkDataAsset:XLfiller"
-							},
-							"healthState": "Healthy"
-						}
 					}
 				]
 			},
@@ -680,9 +650,5 @@
 			}
 		]
 	},
-	"installedTraits": [
-		{
-			"id": ""
-		}
-	]
+	"installedTraits": []
 }

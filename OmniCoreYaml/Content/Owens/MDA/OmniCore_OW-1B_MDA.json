@@ -239,10 +239,10 @@
 		{
 			"head": 15,
 			"centerTorso": 25,
-			"leftTorso": 19,
-			"rightTorso": 19,
-			"leftArm": 8,
-			"rightArm": 8,
+			"leftTorso": 20,
+			"rightTorso": 20,
+			"leftArm": 10,
+			"rightArm": 10,
 			"leftLeg": 16,
 			"rightLeg": 16
 		},
@@ -250,12 +250,12 @@
 		{
 			"head": 30,
 			"centerTorso": 50,
-			"leftTorso": 38,
-			"rightTorso": 38,
-			"leftArm": 16,
-			"rightArm": 16,
-			"leftLeg": 32,
-			"rightLeg": 32
+			"leftTorso": 40,
+			"rightTorso": 40,
+			"leftArm": 20,
+			"rightArm": 20,
+			"leftLeg": 34,
+			"rightLeg": 34
 		}
 	},
 	"mechType":
@@ -473,7 +473,7 @@
 	"engineRating": 280,
 	"bXLEngine": true,
 	"baseChassisCost": 5468625,
-	"salvageShareCost": 23,
+	"salvageShareCost": 26,
 	"bIsHeroMech": false,
 	"bIsDefaultVariant": true
 }

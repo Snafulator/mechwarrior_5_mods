@@ -1,0 +1,12 @@
+{
+	"OC_CASE": {
+		"structureComponent": 10,
+		"rarity": 0.0
+	},
+	"OC_GYRO": {
+		"turnSpeedMulti": 1.1,
+		"accelerationMulti": 1.1,
+		"decelerationMulti": 1.1,
+		"rarity": 0.0
+	}
+}

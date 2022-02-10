@@ -449,7 +449,7 @@
 	"engineRating": 270,
 	"bXLEngine": false,
 	"baseChassisCost": 3359650,
-	"salvageShareCost": 23,
+	"salvageShareCost": 28,
 	"bIsHeroMech": false,
 	"bIsDefaultVariant": false
 }

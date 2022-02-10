@@ -56,7 +56,7 @@
 		]
 	},
 	"BJ2-O": {
-		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"scale": "X=1.06 Y=1.06 Z=1.06",
 		"quirks": [
 			"OC_OMNIMECH",
 			"OC_TWISTEXTENDED",
@@ -64,7 +64,7 @@
 		]
 	},
 	"BJ2-OA": {
-		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"scale": "X=1.06 Y=1.06 Z=1.06",
 		"quirks": [
 			"OC_OMNIMECH",
 			"OC_TWISTEXTENDED",
@@ -72,7 +72,7 @@
 		]
 	},
 	"BJ2-OB": {
-		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"scale": "X=1.06 Y=1.06 Z=1.06",
 		"quirks": [
 			"OC_OMNIMECH",
 			"OC_TWISTEXTENDED",
@@ -80,7 +80,7 @@
 		]
 	},
 	"BJ2-OC": {
-		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"scale": "X=1.06 Y=1.06 Z=1.06",
 		"quirks": [
 			"OC_OMNIMECH",
 			"OC_TWISTEXTENDED",
@@ -88,7 +88,7 @@
 		]
 	},
 	"BJ2-OD": {
-		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"scale": "X=1.06 Y=1.06 Z=1.06",
 		"quirks": [
 			"OC_OMNIMECH",
 			"OC_TWISTEXTENDED",
@@ -96,7 +96,7 @@
 		]
 	},
 	"BJ2-OE": {
-		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"scale": "X=1.06 Y=1.06 Z=1.06",
 		"quirks": [
 			"OC_OMNIMECH",
 			"OC_TWISTEXTENDED",
@@ -104,7 +104,7 @@
 		]
 	},
 	"BJ2-OF": {
-		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"scale": "X=1.06 Y=1.06 Z=1.06",
 		"quirks": [
 			"OC_OMNIMECH",
 			"OC_TWISTEXTENDED",
@@ -126,6 +126,30 @@
 		]
 	},
 	"OW-1B": {
+		"scale": "X=1.16 Y=1.16 Z=1.16",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_SENSORSIMPROVED",
+			"OC_FCS_ARTEMIS"
+		]
+	},
+	"OW-1C": {
+		"scale": "X=1.16 Y=1.16 Z=1.16",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_SENSORSIMPROVED",
+			"OC_FCS_ENERGY_CRIT"
+		]
+	},
+	"OW-1D": {
+		"scale": "X=1.16 Y=1.16 Z=1.16",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_SENSORSIMPROVED",
+			"OC_FCS_MISSILE_SPEED"
+		]
+	},
+	"OW-1E": {
 		"scale": "X=1.16 Y=1.16 Z=1.16",
 		"quirks": [
 			"OC_OMNIMECH",
@@ -172,6 +196,7 @@
 		"quirks": [
 			"OC_OMNIMECH",
 			"OC_EASYTOMAINTAIN",
+			"OC_BATTLE_COMPS",
 			"OC_SHOULDER_PAULDRONS"
 		]
 	},
@@ -180,6 +205,7 @@
 		"quirks": [
 			"OC_OMNIMECH",
 			"OC_EASYTOMAINTAIN",
+			"OC_BATTLE_COMPS",
 			"OC_SHOULDER_PAULDRONS"
 		]
 	},
@@ -188,6 +214,16 @@
 		"quirks": [
 			"OC_OMNIMECH",
 			"OC_EASYTOMAINTAIN",
+			"OC_BATTLE_COMPS",
+			"OC_SHOULDER_PAULDRONS"
+		]
+	},
+	"TLR1-OC": {
+		"scale": "X=1.03 Y=1.03 Z=1.05",
+		"quirks": [
+			"OC_OMNIMECH",
+			"OC_EASYTOMAINTAIN",
+			"OC_BATTLE_COMPS",
 			"OC_SHOULDER_PAULDRONS"
 		]
 	}

@@ -1,0 +1,14 @@
+{
+   "displayName": "OmniCore - Gameplay",
+   "version": "1.3",
+   "buildNumber": 143,
+   "description": "Gameplay version. All mechs available from 3014.\r\n\r\nAdds 31 Inner Sphere OmniMech variants to the game.\r\n\r\nBlackjack II - 7 variants\r\nFirestarter - 9 variants\r\nOwens - 6 variants\r\nStrider - 5 variants\r\nTemplar - 4 variants\r\n\r\nRequired mods:\r\nYet Another Mech Lab\r\nYet Another Weapon Mod",
+   "author": "Snafulator",
+   "authorURL": "",
+   "defaultLoadOrder": 9,
+   "gameVersion": "1.1.0",
+   "manifest": [],
+   "steamPublishedFileId": 2568388434,
+   "steamLastSubmittedBuildNumber": 120,
+   "steamModVisibility": "Public"
+}
