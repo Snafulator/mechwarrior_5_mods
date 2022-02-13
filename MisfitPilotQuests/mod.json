@@ -1,11 +1,16 @@
 {
-	"displayName": "Misfit Pilot Quests - CAL compatible",
-	"version": "1.0",
-	"description": "Community Arc Loader compatible release. Compatible with Call of Garrison Duty and any other mod that is supported by Community Arc Loader.\r\n\r\nBattletech style quest events to add misfit pilots to your roster.\r\n\r\nTwo pilot questlines so far, however the second pilot is only available after 3052 ;)\r\n\r\nRequired mods:\r\nCommunity Arc Loader\r\n",
-	"author": "Snafulator",
-	"authorURL": "",
-	"defaultLoadOrder": 9,
-	"gameVersion": "1.1.0",
-	"manifest": [],
-	"steamModVisibility": "Private"
+   "displayName" : "Misfit Pilot Quests - CAL compatible",
+   "version" : "1.0",
+   "buildNumber" : 49,
+   "description" : "Community Arc Loader compatible release. Compatible with Call of Garrison Duty and any other mod that is supported by Community Arc Loader.\r\n\r\nBattletech style quest events to add misfit pilots to your roster.\r\n\r\nTwo pilot questlines so far, however the second pilot is only available after 3052 ;)\r\n\r\nAs of version 0.4 Hotrod now has his own custom voice/dialogue.\r\n\r\nHe will not receive the new voice in existing saves, but there is a shortcut method to rehire him: Visit Lothario (west of Free Worlds League)\r\n\r\nRequired mods:\r\nCommunity Arc Loader\r\n",
+   "author" : "Snafulator",
+   "authorURL" : "",
+   "defaultLoadOrder" : 9,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      
+   ],
+   "steamPublishedFileId" : 2687803535,
+   "steamLastSubmittedBuildNumber" : "49",
+   "steamModVisibility" : "Private"
 }

@@ -1,0 +1,17 @@
+{
+	"displayName": "Misfit Pilot Quests - Standalone",
+	"version": "1.0",
+	"buildNumber": 47,
+	"description": "Battletech style quest events to add misfit pilots to your roster.\r\n\r\nTwo pilot questlines so far, however the second pilot is only available after 3052 ;)\r\n\r\nAs of version 0.4 Hotrod now has his own custom voice/dialogue.\r\n\r\nHe will not receive the new voice in existing saves, but there is a shortcut method to rehire him: Visit Lothario (west of Free Worlds League)",
+	"author": "Snafulator",
+	"authorURL": "",
+	"defaultLoadOrder": 9,
+	"gameVersion": "1.1.0",
+	"manifest": [
+		"/Game/Campaign/CampaignArcs/MW5CoreCampaign.uasset",
+		"/Game/DLC1/CareerMode/CareerModeCoreCampaign.uasset"
+	],
+	"steamPublishedFileId": 2669835954,
+	"steamLastSubmittedBuildNumber": 47,
+	"steamModVisibility": "Public"
+}
